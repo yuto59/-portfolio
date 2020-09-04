@@ -320,9 +320,6 @@ footer {
 	.nav_menu_ul {
 		width: 70vw;
 	}
-	.nav_menu_li {
-		padding-bottom: 10vh;
-	}
 	body.open::before {
 		width: 30vw;
 	}
@@ -360,6 +357,9 @@ footer {
 	}
 	.menu-logo {
 		font-size: 0.8rem;
+	}
+	.nav_menu_li {
+		padding-bottom: 10vh;
 	}
 	.ceo-visual {
 		width: 80vw;
