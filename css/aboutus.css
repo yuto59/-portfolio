@@ -201,7 +201,7 @@ body.open::before {
 .ceo-visual {
 	margin-left: 12vw;
 	width: 25vw;
-	height: 25vh;
+	height: auto;
 	
 }
 .ceo-visual img {
@@ -290,7 +290,7 @@ footer {
 @media screen and (min-height: 1100px) {
 	.ceo-visual {
 		width: 30vw;
-		height: 17vh;
+		height: auto;
 		margin-left: 6vw;
 	}
 	.ceo-comment {
@@ -334,7 +334,7 @@ footer {
 	}
 	.ceo-visual {
 		width: 40vw;
-		height: 25vh;
+		height: auto;
 		margin-left: 0;
 	}
 	.ceo-comment {
@@ -363,7 +363,7 @@ footer {
 	}
 	.ceo-visual {
 		width: 80vw;
-		height: 25vh;
+		height: auto;
 	}
 	.ceo-comment-content {
 		padding: 100px 30px 70px;
