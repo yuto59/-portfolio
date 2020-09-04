@@ -155,12 +155,12 @@ body.open::before {
 	top: 0;
 	right: 0;
 	background-color: black;
-	padding-top: 100px;
+	padding-top: 20vh;
 	transition: opacity 1s;
 }
 .nav_menu_li {
 	font-size: 2rem;
-	padding-bottom: 100px;
+	padding-bottom: 12vh;
 	text-align: center;
 	font-weight: bold;
 }
@@ -319,6 +319,9 @@ footer {
 	}
 	.nav_menu_ul {
 		width: 70vw;
+	}
+	.nav_menu_li {
+		padding-bottom: 10vh;
 	}
 	body.open::before {
 		width: 30vw;
