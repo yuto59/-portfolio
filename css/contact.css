@@ -157,7 +157,7 @@ body.open::before {
 	top: 0;
 	right: 0;
 	background-color: black;
-	padding-top: 300px;
+	padding-top: 35vh;
 	transition: opacity 1s;
 }
 .nav_menu_li {
